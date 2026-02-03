@@ -1,0 +1,1 @@
+# cpu_temp_monitor_script
